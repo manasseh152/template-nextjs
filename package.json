@@ -6,6 +6,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "cardinal": "^2.1.1",
+    "dotenv": "^16.0.3",
+    "mysql2": "^2.3.3",
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0"
